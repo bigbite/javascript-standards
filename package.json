@@ -1,0 +1,27 @@
+{
+  "name": "@bigbite/javascript-standards",
+  "version": "0.0.1",
+  "description": "Collection of configs for JS based Projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbite/javascript-standards.git"
+  },
+  "author": "Big Bite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigbite/javascript-standards/issues"
+  },
+  "homepage": "https://github.com/bigbite/javascript-standards#readme",
+  "devDependencies": {
+    "@wordpress/eslint-plugin": "^22.20.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-jsdoc": "^61.1.12",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "prettier": "^3.6.2"
+  }
+}
